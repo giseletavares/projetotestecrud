@@ -1,0 +1,9 @@
+com\zoo\projetoteste\ZooApplication.class
+com\zoo\projetoteste\service\FichaService.class
+com\zoo\projetoteste\model\Ficha.class
+com\zoo\projetoteste\model\Animal.class
+com\zoo\projetoteste\dao\FichaDAO.class
+com\zoo\projetoteste\controller\AnimalController.class
+com\zoo\projetoteste\controller\FichaController.class
+com\zoo\projetoteste\dao\AnimalDAO.class
+com\zoo\projetoteste\service\AnimalService.class
